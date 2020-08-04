@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Vinnybest/vinnybest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Vinicius Sales
 
-Here are some ideas to get you started:
+## Hello Guys 👋
+ <br/>Sou Apaixonado por Tecnologia, Programação e Games
+ <br/>Tecnologo em Redes de Computadores e Eletrônica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <br/> <p>Works on 👁️🐝M (IBM) as a Field Technician <p>
+ <br/> <p> Professor de Hardware & Redes <p>
+ <br/> Iniciando minha jornada na programação - Javascript e afins
+ <br/> :e-mail:&nbsp; - vinnybest@gmail.com
+ <br/> :computer: &nbsp; - LikedIn Profile - https://www.linkedin.com/in/vinicius-sales-784b7b63/
+ <br/> 💬  &nbsp; Sobre mim: Tecnologic lover, Pai do Gabriel, Viciado em Música.
+ <br/> :city_sunrise: Sorocaba / SP
+ 
