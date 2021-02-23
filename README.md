@@ -3,7 +3,10 @@
 
 ## Hello Guys 👋
  <br/>Sou Apaixonado por Tecnologia, Programação e Games
- <br/>Tecnologo em Redes de Computadores e Eletrônica
+ <br/>Tecnico em Eletronica
+ <br/>Tecnologo em Redes de Computadores
+ <br/>Pos-graduação em Gestão e Governança de T.I.
+ 
 
  <br/> <p>Works on 👁️🐝M (IBM) as a Field Technician <p>
  <br/> <p> Professor de Hardware & Redes <p>
