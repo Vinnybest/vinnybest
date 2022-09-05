@@ -8,9 +8,10 @@
  <br/>Pos-graduação em Gestão e Governança de T.I.
  
 
- <br/> <p>Works on 👁️🐝M (IBM) as a Field Technician <p>
+ <br/> <p> Coordenador de T.I. <p>
  <br/> <p> Professor de Hardware & Redes <p>
- <br/> Iniciando minha jornada na programação - Javascript, HTML 5, CSS 3, PHP e Afins
+ <br/> <p> Especialista Wordpress <p>
+ <br/> jornada em programação - Javascript, HTML 5, CSS 3, PHP e Afins
  <br/> :e-mail:&nbsp; - vinnybest@gmail.com &nbsp; / &nbsp; admin@vbest.com.br
  <br/> :computer: &nbsp; - LikedIn Profile - https://www.linkedin.com/in/vinnybest
  <br/> :bulb: &nbsp; - Portfólio Site - https://vbest.com.br
